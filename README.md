@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, soy Sergio</h1>
+<h3 align="center">Un desarrollador web apasionado, profesor de historia y aprendiz de por vida</h3>
 
-<!--
-**DaianaSaenz/daianasaenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 Como contactarme **daiana.n.saenz@gmail.com**
 
-Here are some ideas to get you started:
+-  : joya : También estoy en [ Linkedin ](https://www.linkedin.com/in/daiana-noelia-saenz/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=daianasaenz&show_icons=true" alt="daiananoeliasaez" />
+</p>
+ 
+<p align="centro">
+<a href="https://www.linkedin.com/es/daiana-noelia-saenz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/ npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/daiana-noelia-saenz/" height="20" width="20" /> </a>
+
+</p>
+![](https://hit.yhype.me/github/profile?user_id=59698756)
