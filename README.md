@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Sergio</h1>
-<h3 align="center">Un desarrollador web apasionado, profesor de historia y aprendiz de por vida</h3>
+<h1 align="center">Hola 👋, soy Daiana</h1>
+<h3 align="center">Una apasionada estudiante de Data Science, esteticién y fisiotearpeuta</h3>
 
 - 📫 Como contactarme **daiana.n.saenz@gmail.com**
 
